@@ -22,6 +22,8 @@ This new assignment consists of two technical analysis deliverables and a writte
  Utilized Pandas to change the datatype of the "tripduration" column from an integer to a datetime datatype to get the time in hours and minutes. 
  
  
+ _Deliverable 2_
+ 
  **Results**
 
 <img width="955" alt="Checkout Times for Users" src="https://user-images.githubusercontent.com/99268646/169849465-aa586fd9-a630-46bf-a458-8223b9ff1f24.png">
