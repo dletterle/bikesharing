@@ -35,3 +35,6 @@ This new assignment consists of two technical analysis deliverables and a writte
 <img width="535" alt="Trips by Gender (Weekday per Hour)" src="https://user-images.githubusercontent.com/99268646/169849540-be7e9dae-abd8-490e-9112-4f0308211875.png">
 
 <img width="657" alt="User Trips by Gender by Weekday" src="https://user-images.githubusercontent.com/99268646/169849566-6f7c4d36-973c-43c8-b587-4b6b95c491af.png">
+
+
+_Deliverable 3_
