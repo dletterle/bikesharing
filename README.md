@@ -38,3 +38,15 @@ This new assignment consists of two technical analysis deliverables and a writte
 
 
 _Deliverable 3_
+
+**Summary**
+
+Looking further at the demographic population, to view the gender count of the participants, birth year of the participants and birth year by gender of the participants. 
+
+<img width="958" alt="Gender Summary" src="https://user-images.githubusercontent.com/99268646/169858371-a6c157a6-a7d4-42e9-ab26-0d7f5d572608.png">
+
+<img width="960" alt="Birth Year Summary" src="https://user-images.githubusercontent.com/99268646/169858447-dff00571-bbec-4331-bdbb-5a2a6bc04968.png">
+
+<img width="959" alt="Birth Year by Gender" src="https://user-images.githubusercontent.com/99268646/169858472-d2dd23e2-1b72-415b-b57b-17e26abf8194.png">
+
+
