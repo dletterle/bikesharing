@@ -24,3 +24,12 @@ This new assignment consists of two technical analysis deliverables and a writte
  
  **Results**
 
+<img width="955" alt="Checkout Times for Users" src="https://user-images.githubusercontent.com/99268646/169849465-aa586fd9-a630-46bf-a458-8223b9ff1f24.png">
+
+<img width="960" alt="Checkout Times by Gender" src="https://user-images.githubusercontent.com/99268646/169849481-f7de79e1-6067-4dd1-9259-12a1ac86f410.png">
+
+<img width="953" alt="Trips by Weekday by Hour" src="https://user-images.githubusercontent.com/99268646/169849516-a8e7e26c-75bf-4f2d-9446-1edf81e3010c.png">
+
+<img width="535" alt="Trips by Gender (Weekday per Hour)" src="https://user-images.githubusercontent.com/99268646/169849540-be7e9dae-abd8-490e-9112-4f0308211875.png">
+
+<img width="657" alt="User Trips by Gender by Weekday" src="https://user-images.githubusercontent.com/99268646/169849566-6f7c4d36-973c-43c8-b587-4b6b95c491af.png">
