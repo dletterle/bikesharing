@@ -43,6 +43,8 @@ _Deliverable 3_
 
 Looking further at the demographic population, to view the gender count of the participants, birth year of the participants and birth year by gender of the participants. These images depict further demographic information which can assist Des Moines in marketing to groups that the most likely to participate but also change their marketing to be more inclusive. It appears males are the more likely gender to participate in the program, so marketing techniques may need to be changed to emphasize safety or discounted rates for traveling in groups. Additionally, the most likely age to participate in the program is 1970 and 1990. These numbers make sense with a tail on either side of the peaks because as the demographic gets younger they are less likely to pariticipate in the program and when the demographic gets older they are also less likely to participate in the program. So in this instance it is recommended for the business to design makreting around the "middle-age" and "young adult" market because they are the population that is the most likely to participate anyways. 
 
+
+
 <img width="958" alt="Gender Summary" src="https://user-images.githubusercontent.com/99268646/169858371-a6c157a6-a7d4-42e9-ab26-0d7f5d572608.png">
 
 <img width="960" alt="Birth Year Summary" src="https://user-images.githubusercontent.com/99268646/169858447-dff00571-bbec-4331-bdbb-5a2a6bc04968.png">
